@@ -1,6 +1,22 @@
 /*
 https://kuler.adobe.com/ru/create/color-wheel/?base=2&rule=Triad&selected=2&name=%D0%9C%D0%BE%D1%8F%20%D1%82%D0%B5%D0%BC%D0%B0%20Kuler&mode=rgb&rgbvalues=0.6725490196078432,0.25003636938646434,0.4274271767314075,0.9771241830065359,0.9360814512844707,0.5586943917351886,0.9725490196078431,0.4588235294117647,0.6745098039215687,0.287213788741303,0.6924722813692069,0.7725490196078431,0.28366382036685645,0.608385826161325,0.6725490196078432&swatchOrder=0,1,2,3,4
 */
+html {
+}
 
+body {
+    margin: 0 auto;
+}
+
+header {
+    background: url(../img/head_glaz.png);
+    height: 1000px;
+    background-size: 50%;
+    background-repeat: repeat-x;
+}
+
+section {}
+
+footer {}
 
 
